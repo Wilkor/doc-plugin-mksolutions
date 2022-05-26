@@ -29,6 +29,9 @@ Em breve mais detalhes do processo de instalação e utilização.
   - Volte ao builder e veja se a fluxo foi carregado
   - Publique o fuxo e começe a usar!  😱😱😱😱
   
+  Clique no link abaixo e veja como é simples utilizar esse plugin.
+
+  https://youtu.be/xTuVP8TQNo4
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-mksolutions/main/mksolutions.png)
  
 
