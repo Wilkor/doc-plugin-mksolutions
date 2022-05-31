@@ -23,7 +23,7 @@ Em breve mais detalhes do processo de instalação e utilização.
   - Acessar o Builder e  fazer uma publicação (Para adicionar o bot como um serviço é preciso publicar mesmo que não tenha nada lá rs)
   - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões.
   - Procure por **MKSolutions** e clique em ativar
-  - Apos instalado e ativado, adicionar as variaveis Token, Senha, Conta e Ambiente
+  - Apos instalado e ativado, adicionar as variaveis Token, Senha, Conta e Ambiente ( ex: https://mkcampos.infolic.net.br/ | Conta = mkcampos, Ambiente = infolic.net.br)
   - Clicar em **Criar Estrutura**
   - Feito isso, vai aparecer uma popup no rodapé com a informalção de sucesso ou erro
   - Volte ao builder e veja se a fluxo foi carregado
